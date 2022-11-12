@@ -44,7 +44,7 @@
 		3BCBBDC028CF184B00BECF3A = {
 			isa = PBXGroup;
 			children = (
-				3BCBBDCB28CF184B00BECF3A /* UIImageView */,
+				3BCBBDCB28CF184B00BECF3A /* UICollectionView */,
 				3BCBBDCA28CF184B00BECF3A /* Products */,
 			);
 			sourceTree = "<group>";
@@ -57,7 +57,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		3BCBBDCB28CF184B00BECF3A /* UIImageView */ = {
+		3BCBBDCB28CF184B00BECF3A /* UICollectionView */ = {
 			isa = PBXGroup;
 			children = (
 				3BDEB5B929158E3F0003C9F4 /* Application */,
@@ -69,7 +69,7 @@
 				3BCBBDD728CF184F00BECF3A /* LaunchScreen.storyboard */,
 				3BCBBDDA28CF184F00BECF3A /* Info.plist */,
 			);
-			path = UIImageView;
+			path = UICollectionView;
 			sourceTree = "<group>";
 		};
 		3BDEB5B629158DFD0003C9F4 /* Model */ = {
@@ -140,7 +140,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 3BCBBDC428CF184B00BECF3A /* Build configuration list for PBXProject "UIImageView" */;
+			buildConfigurationList = 3BCBBDC428CF184B00BECF3A /* Build configuration list for PBXProject "UICollectionView" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -381,7 +381,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3BCBBDC428CF184B00BECF3A /* Build configuration list for PBXProject "UIImageView" */ = {
+		3BCBBDC428CF184B00BECF3A /* Build configuration list for PBXProject "UICollectionView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3BCBBDDB28CF184F00BECF3A /* Debug */,

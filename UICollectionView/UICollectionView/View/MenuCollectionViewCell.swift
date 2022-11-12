@@ -120,8 +120,6 @@ class MenuCollectionViewCell: UICollectionViewCell {
                            attribute: .bottomMargin,
                            multiplier: 1,
                            constant: 0).isActive = true
-        
-        
     }
     
 }
